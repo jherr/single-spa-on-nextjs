@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.1.1/lib/system/single-spa.min.js",
+    "single-spa-html": "https://cdn.jsdelivr.net/npm/single-spa-html"
+  }
+}

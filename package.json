@@ -10,6 +10,7 @@
   "dependencies": {
     "next": "9.3.5",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "single-spa-react": "^2.14.0"
   }
 }
